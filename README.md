@@ -10,6 +10,10 @@ pip install -r requirements.txt
 - Docker ou docker-compose
 - Python versão 3.10 ou superior
 
+## Para iniciar o bot, execute
+```bash
+docker-compose up --build
+```
 
 ## Inicie o banco vetorial
 
@@ -22,10 +26,5 @@ Logo em seguida
 python app/rag/rag.py
 ```
 
-
-## Para iniciar o bot, execute
-```bash
-docker-compose up --build
-```
 
 https://waha.devlike.pro
