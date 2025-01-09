@@ -10,7 +10,7 @@ pip install -r requirements.txt
 - Docker ou docker-compose
 - Python versão 3.10 ou superior
 
-## Para iniciar o bot, execute
+## Para iniciar, execute
 ```bash
 docker-compose up --build
 ```
