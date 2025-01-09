@@ -1,0 +1,4 @@
+rag/dados
+__pycache__
+.env
+chroma_data
